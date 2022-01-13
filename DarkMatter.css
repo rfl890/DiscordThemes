@@ -71,7 +71,8 @@ button {
 }
 
  ::selection {
-	background-color: rgba(var(--accent-alt), 0.5);
+	background-color: rgba(0,0,0,255);
+	color: rgba(var(--white));
 }
 
 
